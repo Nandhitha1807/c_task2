@@ -1,3 +1,6 @@
+/*Develop a program that converts temperature
+from Fahrenheit to Celsius or vice versa.*/
+
 #include <stdio.h>
 
 int main() {
